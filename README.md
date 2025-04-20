@@ -30,7 +30,7 @@ Learn about tensor creation, transformations, matrix operations, and PyTorch-spe
 - **Gradient computation** is seamless with PyTorch and TensorFlow.
 
 ## 🎥 Video Walkthrough
-📌 Watch the video explanation here: [Video Link](https://youtu.be/7Iiv7WyhslY)
+📌 Watch the video explanation here: [Video Link](https://youtu.be/NoF5db12YGw)
 
 ---
 🚀 **Explore, experiment, and master deep learning tensors!**
